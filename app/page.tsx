@@ -13,7 +13,7 @@ export default function Home() {
         <img src="/assets/1.png" alt="" className="w-2/3" />
         <h1 className="font-bold text-[4rem] text-black">Quizzer</h1>
         <p>Envie de tester tes connaissance sur différents animés ? Télécharge notre appli et lance toi</p>
-        <a href="/assets/app-release.apk" download>
+        <a href="/assets/quizzer.apk" download>
         <button className="px-6 py-4 bg-black text-white rounded-xl flex gap-2 mt-8">
           Télécharger
           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
